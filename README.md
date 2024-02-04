@@ -11,6 +11,6 @@
 </div> <br>
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=uk2315&theme=radical)](https://github.com/black1512/npm-package-registery/pkgs/npm/npm-package-registery)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=uk2315&theme=radical)](https://github.com/black1512/demo-repository/pkgs/npm/demo_package)
   
 </div>
