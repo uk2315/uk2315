@@ -1,16 +1,16 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=uk2315&label=PROFILE+VIEWS&color=orange)
 
-<!--
-**uk2315/uk2315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats
+<br/>
+<div align="center" > <a href="https://github.com/marketplace/actions/label-new-pull-requests-by-firework-production-private-ltd"><img src="https://github-profile-trophy.vercel.app/?username=uk2315&row=3&column=3&theme=onedark" alt="Utsav stats" /></a> </div> <br/> <br/>
+<div align="center">
+  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=uk2315&show_icons=true&theme=radical)](https://github.com/black1512/docker-repos/pkgs/container/docker-repos)
+</div> <br>
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=uk2315&theme=radical)](https://github.com/black1512/npm-package-registery/pkgs/npm/npm-package-registery)
+  
+</div>
